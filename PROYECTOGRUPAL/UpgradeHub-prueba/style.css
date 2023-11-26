@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(0, 204, 255);
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+    margin: 0 auto;
+    padding: 0 auto;
+    color: pink;
+
+}
+
+p {
+    font-size: 30px;
+}
+
+img {
+    max-width: 600px;
+
+}
+span {
+    color: pink;
+}
+
+h2 {
+    color: yellow;
+}
+
+#radio-buttom {
+    padding: 10px;
+    }
+    
+#checkbox {
+    padding: 10px;
+    }
+    
+#survey-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-around;
+    }
+
+#kindOF {
+    display: flexbox;
+    flex-wrap: wrap;
+}
+
+.ridingStyle {
+    color: white;
+    margin: 0;
+    padding: 10px;
+}
+
+input {
+
+}
